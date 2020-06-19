@@ -5,4 +5,5 @@
 ```bash
 npm i
 npm start
+# http://localhost:1234 로 접속!
 ```

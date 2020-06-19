@@ -1,7 +1,9 @@
-td.player {
-  background-color: red;
+.title {
+  font-weight: bold;
+  color: black;
 }
 
-td.computer {
-  background-color: blue;
+.body {
+  font-weight: 600;
+  color: grey;
 }
