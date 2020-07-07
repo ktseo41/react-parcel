@@ -9,8 +9,9 @@
   "author": "ktseo41",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "parcel-bundler": "^1.12.4",
     "react": "16.12.0",
-    "react-dom": "16.12.0",
-    "parcel-bundler": "^1.12.4"
+    "react-dom": "16.12.0"
   }
 }
